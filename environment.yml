@@ -1,0 +1,11 @@
+name: Conda_env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8  # or any version you prefer
+  - cartopy
+  - xesmf
+  - xarray
+  - netcdf4
+  - h5py
+  - dask
